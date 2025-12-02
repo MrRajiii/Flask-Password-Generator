@@ -1,5 +1,9 @@
 # 🔒 Secure Password Generator (Flask Web App)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-5E3A13?style=for-the-badge&logo=jinja&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 A modern, secure, and responsive web application built with **Flask** that allows users to generate cryptographically secure passwords based on custom length and character set criteria. The application features a clean, dark-themed UI and includes client-side functionality to easily copy the generated password.
 
 ## ✨ Features
